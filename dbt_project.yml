@@ -36,5 +36,4 @@ clean-targets: # directories to be removed by `dbt clean`
 models:
   ads_project:
     # Applies to all files under models/example/
-    
-      +materialized: table
+          +materialized: table
