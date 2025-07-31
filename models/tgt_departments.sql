@@ -7,6 +7,7 @@
     )
 }}
 
+
 select
 
     src.department_id,
